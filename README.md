@@ -9,7 +9,7 @@ This project was developed as part of the course "Communication Security" (אב�
 To run the code, you need to have the following:
 
 - Python 3.x
-- `pycryptodome` library (install with `pip install pycryptodome`)
+- `pycryptodomex` library (install with `pip install pycryptodomex`)
 
 ## Installation
 
