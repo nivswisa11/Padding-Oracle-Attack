@@ -76,10 +76,6 @@ Here's an example using the provided ciphertext and key:
 2. Use the following commands in the terminal:
 
    ```sh
-   python oracle.py 33aaa3017e45337bd36342b3920be656 0000000000000000
-   ```
-
-   ```sh
    python attack.py 33aaa3017e45337bd36342b3920be656 0000000000000000
    ```
 
